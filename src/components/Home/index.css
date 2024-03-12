@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  color: #ffffff;
+}
+.content-container {
+  padding: 30px;
+  background-image: linear-gradient(#2b2c49, #b5b9ff);
+  border-radius: 8px;
+  text-align: center;
+}
